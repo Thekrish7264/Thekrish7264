@@ -1,5 +1,6 @@
-<!-- INTRO -->
-# Hi there 👋! I'm Krushna 🚀
+
+
+# Hi there 👋! I'm [Krushna](https://krushna-mahajan-gm5mwqn.gamma.site/) 🚀
 
 <i><b>LATEST UPDATE:</b> Exploring Android Development, AI Integration & Learning AI/ML 🧠</i>
 
