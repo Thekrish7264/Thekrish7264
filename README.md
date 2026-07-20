@@ -5,21 +5,45 @@
 
 <div align="center">
 
-# 🌐 My Portfolio
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:B22222,100:DC143C&height=220&section=header&text=Krushna%20Mahajan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20|%20AI%20Integration%20|%20Software%20Engineer&descAlignY=60&descSize=24"/>
 
-<a href="https://thekrish7264.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+# <span style="color:#ff3b3b;">🚀 Open to Android Developer • AI Engineer • Software Developer Roles</span>
+
+</div>
 
 <br>
 
-### 💻 Android Developer • AI Explorer • Software Engineer
+<div align="center">
 
-Discover my latest Android applications, AI-powered projects, technical skills, certifications, achievements, and professional journey.
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-yourmail@gmail.com-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🔗 **https://thekrish7264.github.io/**
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LINKEDIN-KRUSHNA%20MAHAJAN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-⭐ *Crafted with passion, continuously evolving.*
+<a href="https://github.com/Thekrish7264">
+<img src="https://img.shields.io/badge/GITHUB-THEKRISH7264-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://thekrish7264.github.io/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-thekrish7264.github.io-DC143C?style=for-the-badge"/>
+</a>
+
+<a>
+<img src="https://img.shields.io/badge/📍%20LOCATION-MAHARASHTRA,%20INDIA-B22222?style=for-the-badge"/>
+</a>
+
+<a>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-228B22?style=for-the-badge"/>
+</a>
 
 </div>
 
