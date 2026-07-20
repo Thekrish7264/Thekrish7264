@@ -5,7 +5,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:B22222,100:DC143C&height=220&section=header&text=Krushna%20Mahajan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20|%20AI%20Integration%20|%20Software%20Engineer&descAlignY=60&descSize=24"/>
+<a href="mailto:krishnamahajan9637@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-krushnamahajan9637%40gmail.com-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 # 🚀 Open to Android Developer • AI Engineer • Software Developer Roles
 
