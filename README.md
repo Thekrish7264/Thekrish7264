@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/GMAIL-krishnamahajan9637%40gmail.com-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/krushna-mahajan-268812286">
 <img src="https://img.shields.io/badge/LINKEDIN-KRUSHNA%20MAHAJAN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
