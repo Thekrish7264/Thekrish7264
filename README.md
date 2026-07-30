@@ -45,26 +45,24 @@
 
 ---
 
-## 👨‍💻 Welcome to my hub
+## 👨‍💻 About Me
 
-- 📱 Android Developer focused on **Kotlin, Jetpack Compose & AI Integration**
-- 🧠 Learning AI, ML, Clean Architecture & Modern Android Development
-- 🏗 Building scalable & maintainable mobile applications
-- 👨‍💻 I develop Android apps, Web projects and AI-based applications
-- ✍️ Exploring and sharing what I learn through projects
-- 🎯 Focused on improving DSA, CS fundamentals & development skills
-- 🚀 Passionate about creating real-world innovative applications
+- 📱 Computer Engineering student with a strong interest in Mobile Application Development.
+- 💻 Building Android and React Native applications with a focus on clean, maintainable code.
+- 🧠 Continuously learning software engineering, AI, and modern development practices.
+- 🚀 Interested in developing practical applications that solve real-world problems.
+- 📚 Strengthening computer science fundamentals through projects and hands-on learning.
 
 ---
 
 ## 🎓 Education & Experience
 
 - 🎓 Pursuing **B.Tech in Computer Engineering**
-- 🏅 Completed Diploma in Computer Engineering with **82.35%**
-- 💼 Internship at **Proworld Technology, Nashik** as Software Engineer Intern
-- 🏭 Worked as **Quality Control Technician Trainee** at Bridgestone India Pvt Ltd, Pune
-- 🌟 Campus Ambassador Intern at Corizo
-- 📚 Currently focusing on Android Development with AI Integration
+- 🏅 Diploma in Computer Engineering (**82.35%**)
+- 💼 Software Engineering Intern at **Proworld Technology, Nashik**
+- 🏭 Former **Quality Control Technician Trainee** at **Bridgestone India Pvt. Ltd.**
+- 🌟 Former **Campus Ambassador** at **Corizo**
+- 📖 Currently focused on **Android Development, React Native, and AI**
 
 ---
 
